@@ -19,7 +19,7 @@ Before running the application, you'll need to have the following Python librari
 <li>pillow</li>
 </ul>
 You can install these libraries using pip:
-Copy codepip install requests beautifulsoup4 selenium webdriver-manager pillow
+Copy code: pip install requests beautifulsoup4 selenium webdriver-manager pillow
 Additionally, you'll need to have a compatible web browser (e.g., Google Chrome) installed on your system for Selenium to work correctly.
 <h2>Usage</h2>
 <ol>
